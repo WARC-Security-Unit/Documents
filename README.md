@@ -1,3 +1,3 @@
 # Documents
 
-Created By: 
+Created By: Wanderson Lima, André Graça, Rodrigo Brasil, Cristiano Garcia.
